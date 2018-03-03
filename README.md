@@ -35,6 +35,7 @@ Non functional requirements
 Unknown?
 
 Numbers of inputs that the program would need and under what format they will be 
+
 API data is available for 134 foreign currencies but it is unclear which currencies are actively traded and thus the number of inputs may be reduced to less than 50.
 
 Sample of output that you think the software would output you 
