@@ -50,10 +50,13 @@ Module 3:
 Executed trades with error reporting via text message with automatic trading cessation.
 
 Functions that you think can be divided in the program and their functionality 
+
 See above
 
 What kind of API (not that important for now but will be useful for later)
+
 See above
 
 Information sample that could be needed to run it (Fake data)
+
 See table 1 at http://www.globalsoftwaresupport.com/forex-arbitrage-bellman-ford/
