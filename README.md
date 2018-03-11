@@ -44,7 +44,13 @@ Module 1:
 See table 1 at http://www.globalsoftwaresupport.com/forex-arbitrage-bellman-ford/
 
 Module 2:
-CDN - EUR - JPN - USD - CDN
+Arbitrage opportunity exists:
+CDN 
+EUR
+JPN
+USD
+CDN
+Potential opportunity ($25000): $63.51
 
 Module 3:
 Executed trades with error reporting via text message with automatic trading cessation.
