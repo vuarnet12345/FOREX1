@@ -65,4 +65,4 @@ See above
 
 Information sample that could be needed to run it (Fake data)
 
-See table 1 at http://www.globalsoftwaresupport.com/forex-arbitrage-bellman-ford/
+Check it out at https://developer.mavaiq.com/v1/...
